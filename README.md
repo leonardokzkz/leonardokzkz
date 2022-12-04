@@ -5,13 +5,14 @@
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/leonardokzkz/)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/leonardokzkz/)
 <a href="mailto:leonardofagundes@sapo.pt"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blanck"></a>
-
-![Leonardo Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=leonardokzkz)![Leonardo GitHub stats](https://github-readme-stats.vercel.app/api?username=leonardokzkz&show_icons=true&theme=default)
-
+<div>
+    <img alt="Most used languages" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=leonardokzkz"></img>
+    <img alt="Github Stats" height="180em" src="https://github-readme-stats.vercel.app/api?username=leonardokzkz&show_icons=true&theme=default"></img>
+</div>
 
 ### Sobre mim
 
-Me chamo Leonardo Fagundes, moro em Porto Alegre, curso Técnico para Internet na QI atualmente na quarta disciplina, tive muito contato com linguagens de programação como PHP, Java Script, CSS, MySQL. Também obtive nesse período conhecimentos em sistemas operacionais, banco de dados, programação em terminal como Linux Server, WIndows Server, Banco de dados MySQL, protocolos de rede, intalação de redes e manuteção de computadores.
+<p>Me chamo Leonardo Fagundes, moro em Porto Alegre, curso Técnico para Internet na QI atualmente na quarta disciplina, tive muito contato com linguagens de programação como PHP, Java Script, CSS, MySQL. Também obtive nesse período conhecimentos em sistemas operacionais, banco de dados, programação em terminal como Linux Server, WIndows Server, Banco de dados MySQL, protocolos de rede, intalação de redes e manuteção de computadores.</p>
 
 ### Tecnologias que tenho familiaridade
 
