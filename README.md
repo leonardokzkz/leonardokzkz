@@ -13,7 +13,7 @@
 
 ### Sobre mim
 
-<p>Me chamo Leonardo Fagundes, moro em Porto Alegre, curso Técnico para Internet na QI atualmente na quarta disciplina, tive muito contato com linguagens de programação como PHP, Java Script, CSS, MySQL. Também obtive nesse período conhecimentos em sistemas operacionais, banco de dados, programação em terminal como Linux Server, WIndows Server, Banco de dados MySQL, protocolos de rede, intalação de redes e manuteção de computadores.</p>
+<p>Me chamo Leonardo Fagundes, moro em Porto Alegre, curso Informática para Internet na QI atualmente na quarta disciplina, tive muito contato com linguagens de programação como PHP, Java Script, CSS, MySQL. Também obtive nesse período conhecimentos em sistemas operacionais, banco de dados, programação em terminal como Linux Server, WIndows Server, Banco de dados MySQL, protocolos de rede, intalação de redes e manuteção de computadores.</p>
 
 ### Tecnologias que tenho familiaridade
 
