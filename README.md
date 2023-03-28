@@ -27,7 +27,17 @@
 
 ### Projetos
 
-### Estatísticas
+<ul>
+  <li>
+    <h3>Projeto 1</h3>
+    <p>Descrição breve do projeto 1.</p>
+    <p><strong>Linguagens utilizadas:</strong> HTML, CSS, JavaScript</p>
+    <p><a href="https://github.com/leonardokzkz/ProjWeb-1">Link para o repositório no GitHub</a></br>
+    <a href="https://leonardokzkz.github.io/ProjWeb-1/">Link do Site</p>
+  </li>
+</ul>
+
+### Estatísticas do GitHub
 
 <div>
     <img alt="Most used languages" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=leonardokzkz"></img>
