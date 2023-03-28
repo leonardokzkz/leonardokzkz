@@ -13,7 +13,7 @@
 
 ### Sobre mim
 
-<p>Me chamo Leonardo Fagundes, moro em Porto Alegre, curso Informática para Internet na QI atualmente na quarta disciplina, tive muito contato com linguagens de programação como PHP, Java Script, CSS, MySQL. Também obtive nesse período conhecimentos em sistemas operacionais, banco de dados, programação em terminal como Linux Server, WIndows Server, Banco de dados MySQL, protocolos de rede, intalação de redes e manuteção de computadores.</p>
+<p>Sou um estudante apaixonado por programação e tecnologia, atualmente estudando para me formar no Técnico de Informática para Internet na QI no final do ano de 2023. Meus interesses incluem desenvolvimento web, ciência da computação e engenharia de software.</br> Meus planos futuros incluem me formar no Técnico de Informática para Internet na QI no final de 2023 e, em seguida, iniciar um bacharelado na área de TI no primeiro semestre de 2024. Meus interesses estão na Ciência da Computação, Engenharia de Software e Engenharia da Computação, e estou animado para explorar todas essas opções.</p>
 
 ### Tecnologias que tenho familiaridade
 
