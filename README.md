@@ -29,7 +29,7 @@
 
 <ul>
   <li>
-    <h3>Projeto 1</h3>
+    <h3>Site de Holloween / ProjetoWeb-1</h3>
     <p>Descrição breve do projeto 1.</p>
     <p><strong>Linguagens utilizadas:</strong> HTML, CSS, JavaScript</p>
     <p><a href="https://github.com/leonardokzkz/ProjWeb-1">Link para o repositório no GitHub</a></br>
