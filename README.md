@@ -30,10 +30,16 @@
 <ul>
   <li>
     <h3>Site de Holloween / ProjetoWeb-1</h3>
-    <p>Descrição breve do projeto 1.</p>
+    <p>Web site focado no seu frontend, no tema Holloween.</p>
     <p><strong>Linguagens utilizadas:</strong> HTML, CSS, JavaScript</p>
     <p><a href="https://github.com/leonardokzkz/ProjWeb-1">Link para o repositório no GitHub</a></br>
     <a href="https://leonardokzkz.github.io/ProjWeb-1/">Link do Site</p>
+  </li>
+  <li>
+    <h3>SBWS - Segurança do Bairro</h3>
+    <p>Protótipo para Android desenvolvido com Dart, Flutter, Proto IO e SQFLITE.</p>
+    <p><strong>Linguagens utilizadas:</strong> HTML, CSS, JavaScript</p>
+    <p><a href="https://github.com/leonardokzkz/SBWS/tree/master/SBWS">Link para o repositório no GitHub</a></p>
   </li>
 </ul>
 
