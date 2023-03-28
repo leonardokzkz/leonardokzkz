@@ -38,7 +38,7 @@
   <li>
     <h3>SBWS - Segurança do Bairro</h3>
     <p>Protótipo para Android desenvolvido com Dart, Flutter, Proto IO e SQFLITE.</p>
-    <p><strong>Linguagens utilizadas:</strong> HTML, CSS, JavaScript</p>
+    <p><strong>Linguagens e ferramentas utilizadas:</strong> DART, Flutter, Proto io</p>
     <p><a href="https://github.com/leonardokzkz/SBWS/tree/master/SBWS">Link para o repositório no GitHub</a></p>
   </li>
 </ul>
