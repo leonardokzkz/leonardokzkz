@@ -1,13 +1,5 @@
 ## Olá! Me chamo Leonardo Fagundes 👋
 
-## Contato
-
-[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/leonardokzkz/)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/leonardokzkz/)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/LeonardoKzkz)
-<a href="mailto:leonardofagundes@sapo.pt"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blanck"></a>
-
-
 ### Sobre mim
 
 <p>Sou um estudante apaixonado por programação e tecnologia, atualmente estudando para me formar no Técnico de Informática para Internet na QI no final do ano de 2023. Meus interesses incluem desenvolvimento web, ciência da computação e engenharia de software.</br> Meus planos futuros incluem me formar no Técnico de Informática para Internet na QI no final de 2023 e, em seguida, iniciar um bacharelado na área de TI no primeiro semestre de 2024. Meus interesses estão na Ciência da Computação, Engenharia de Software e Engenharia da Computação, e estou animado para explorar todas essas opções.</p>
@@ -49,6 +41,13 @@
     <a href="https://www.tinkercad.com/things/auRfbYwjTca">Link para repositório no Tinkercad</p>
   </li>
 </ul>
+
+## Contato
+
+[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/leonardokzkz/)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/leonardokzkz/)
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/LeonardoKzkz)
+<a href="mailto:leonardofagundes@sapo.pt"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blanck"></a>
 
 ### Estatísticas do GitHub
 
