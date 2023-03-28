@@ -45,7 +45,8 @@
     <h3>Sensorial.NET</h3>
     <p>Assistência visual para pessoas com deficiência auditiva.</p>
     <p><strong>Linguagens e ferramentas utilizadas:</strong> C++ para desenvolver o código do Arduino e a ferramenta Tinkercad para simulação e prototipagem do circuito eletrônico</p>
-    <p><a href="https://github.com/leonardokzkz/sensorial.net">Link para o repositório no GitHub</a></p>
+    <p><a href="https://github.com/leonardokzkz/sensorial.net">Link para o repositório no GitHub</a></br>
+    <a href="https://www.tinkercad.com/things/auRfbYwjTca">Link para repositório no Tinkercad</p>
   </li>
 </ul>
 
