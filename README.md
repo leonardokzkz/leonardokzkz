@@ -40,6 +40,13 @@
     <p><a href="https://github.com/leonardokzkz/sensorial.net">Link para o repositório no GitHub</a></br>
     <a href="https://www.tinkercad.com/things/auRfbYwjTca">Link para repositório no Tinkercad</p>
   </li>
+  <li>
+    <h3>Lista de tarefas</h3>
+    <p>O projeto é um gerenciador de tarefas simples feito com HTML, CSS e Javascript, que permite adicionar, editar e excluir tarefas, além de alternar entre temas claro e escuro.</p>
+    <p><strong>Ferramentas utilizadas:</strong> As ferramentas usadas neste projeto foram HTML, CSS e JavaScript.</p>
+    <p><a href="https://github.com/leonardokzkz/sensorial.net">Link para o repositório no GitHub</a></br>
+    <a href="https://www.tinkercad.com/things/auRfbYwjTca">Link para repositório no Tinkercad</p>
+  </li>
 </ul>
 
 ## Contato
