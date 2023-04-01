@@ -38,14 +38,14 @@
     <p>Assistência visual para pessoas com deficiência auditiva.</p>
     <p><strong>Linguagens e ferramentas utilizadas:</strong> C++ para desenvolver o código do Arduino e a ferramenta Tinkercad para simulação e prototipagem do circuito eletrônico</p>
     <p><a href="https://github.com/leonardokzkz/sensorial.net">Link para o repositório no GitHub</a></br>
-    <a href="https://www.tinkercad.com/things/auRfbYwjTca">Link para repositório no Tinkercad</p>
+    <a href="https://www.tinkercad.com/things/auRfbYwjTca">Link para o repositório no Tinkercad</p>
   </li>
   <li>
     <h3>Lista de tarefas</h3>
     <p>O projeto é um gerenciador de tarefas simples feito com HTML, CSS e Javascript, que permite adicionar, editar e excluir tarefas, além de alternar entre temas claro e escuro.</p>
     <p><strong>Ferramentas utilizadas:</strong> As ferramentas usadas neste projeto foram HTML, CSS e JavaScript.</p>
-    <p><a href="https://github.com/leonardokzkz/sensorial.net">Link para o repositório no GitHub</a></br>
-    <a href="https://www.tinkercad.com/things/auRfbYwjTca">Link para repositório no Tinkercad</p>
+    <p><a href="https://github.com/leonardokzkz/Lista-de-Tarefas">Link para o repositório no GitHub</a></br>
+    <a href="https://leonardokzkz.github.io/Lista-de-Tarefas/">Link do site</p>
   </li>
 </ul>
 
