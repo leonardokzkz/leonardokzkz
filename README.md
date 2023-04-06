@@ -2,7 +2,7 @@
 
 ### Sobre mim
 
-<p>Sou um estudante apaixonado por programação e tecnologia, atualmente estudando para me formar no Técnico de Informática para Internet na QI no final do ano de 2023. Meus interesses incluem desenvolvimento web, ciência da computação e engenharia de software.</br> Meus planos futuros incluem me formar no Técnico de Informática para Internet na QI no final de 2023 e, em seguida, iniciar um bacharelado na área de TI no primeiro semestre de 2024. Meus interesses estão na Ciência da Computação, Engenharia de Software e Engenharia da Computação, e estou animado para explorar todas essas opções.</p>
+<p>Sou um estudante apaixonado por programação e tecnologia, atualmente estudando para me formar em Técnico de Informática para Internet na QI no final do ano de 2023. Meus interesses incluem desenvolvimento web, ciência da computação e engenharia de software.</br> Meus planos futuros incluem me formar no Técnico de Informática para Internet na QI no final de 2023 e, em seguida, iniciar um bacharelado na área de TI no primeiro semestre de 2024. Meus interesses estão na Ciência da Computação, Engenharia de Software e Engenharia da Computação, e estou animado para explorar todas essas opções.</p>
 
 ### Tecnologias que tenho familiaridade
 
